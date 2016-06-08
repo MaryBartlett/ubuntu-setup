@@ -93,7 +93,7 @@ To install package manager https://packagecontrol.io/installation
 
 https://github.com/creationix/nvm
 
-To install NVM in ~/bin, run:
+To install NVM, run:
 
     git clone https://github.com/creationix/nvm.git ~/.nvm && cd ~/.nvm && git checkout `git describe --abbrev=0 --tags`
 
@@ -117,7 +117,7 @@ You can now install grunt (globally)
 
 And gulp
 
-`npm install -g gulp`
+`npm install -g gulp-cli`
 
 
 **Setup git**
@@ -126,9 +126,9 @@ https://help.github.com/articles/set-up-git/
 
 Probably prefer clone with ssh - https://help.github.com/articles/generating-ssh-keys/
 
-To check whether it's worked, run: `ssh -T git@github.com`
+Copy the contents of ~/.ssh/id_rsa.pub to github settings 
 
-Also add your ssh key to github.com
+To check whether it's worked, run: `ssh -T git@github.com` and if it says "Hello XXX" it's worked
 
 
 **Nginx**
