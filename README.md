@@ -179,6 +179,8 @@ Open ubuntu software centre
 
 Install Chrome
 
+Or if that doesn't work, try these instructions: https://www.linuxbabe.com/ubuntu/install-google-chrome-ubuntu-16-04-lts
+
 **Install terminator**
 
 https://apps.ubuntu.com/cat/applications/precise/terminator/
