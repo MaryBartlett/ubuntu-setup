@@ -262,6 +262,14 @@ curl -L https://github.com/docker/compose/releases/download/1.7.0-rc1/docker-com
 chmod +x /usr/local/bin/docker-compose
 ```
 
+**Database admin**
+
+http://www.valentina-db.com/en/studio/download/current
+
+Download and save .deb file
+
+Either open with software centre if that works or `sudo dpkg -i vstudio_x64_6_lin.deb`
+
 **Clojure**
 
 **JDK (JAVA)**
