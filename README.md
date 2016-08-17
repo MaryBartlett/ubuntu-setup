@@ -20,6 +20,7 @@ You will need a laptop, and a USB key containing a bootable Ubuntu installation.
 * Install this third-party software
 * Encrypt the new Ubuntu installation for security
 * Use LVM with the new Ubuntu installation
+* Turn off secure boot. Else you may have problems with installing virtual box
 
 
 **﻿Install vim**
